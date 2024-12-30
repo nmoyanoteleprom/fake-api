@@ -1,7 +1,202 @@
 {
-    "users": [
-      { "id": 1, "name": "John Doe" },
-      { "id": 2, "name": "Jane Doe" }
-    ]
-  }
-  
+  "deudas": [
+    {
+      "dni": 1000,
+      "nombre": "Federico",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 1000,
+      "deudaVencidaProd2": 3729,
+      "deudaTotProd1": 1500,
+      "deudaTotProd2": 5593.5,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1001,
+      "nombre": "Juan Pablo",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 1500,
+      "deudaVencidaProd2": 1502,
+      "deudaTotProd1": 2250,
+      "deudaTotProd2": 2253,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1002,
+      "nombre": "Raul",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 1250,
+      "deudaVencidaProd2": 702,
+      "deudaTotProd1": 1875,
+      "deudaTotProd2": 1053,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1003,
+      "nombre": "Roberto",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 900,
+      "deudaVencidaProd2": 3265,
+      "deudaTotProd1": 1350,
+      "deudaTotProd2": 4897.5,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1004,
+      "nombre": "Yuri",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 2400,
+      "deudaVencidaProd2": 3264,
+      "deudaTotProd1": 3600,
+      "deudaTotProd2": 4896,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1005,
+      "nombre": "Jamblico",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 1154,
+      "deudaVencidaProd2": 1601,
+      "deudaTotProd1": 1731,
+      "deudaTotProd2": 2401.5,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1006,
+      "nombre": "Johanna",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 1245,
+      "deudaVencidaProd2": 2624,
+      "deudaTotProd1": 1867.5,
+      "deudaTotProd2": 3936,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1007,
+      "nombre": "Ana Paula",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 4569,
+      "deudaVencidaProd2": 4144,
+      "deudaTotProd1": 6853.5,
+      "deudaTotProd2": 6216,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1008,
+      "nombre": "Gaspar",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 3456,
+      "deudaVencidaProd2": 2211,
+      "deudaTotProd1": 5184,
+      "deudaTotProd2": 3316.5,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1009,
+      "nombre": "Maximiliano",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 1234,
+      "deudaVencidaProd2": 1246,
+      "deudaTotProd1": 1851,
+      "deudaTotProd2": 1869,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1010,
+      "nombre": "Carolina",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 2000,
+      "deudaVencidaProd2": 2456,
+      "deudaTotProd1": 3000,
+      "deudaTotProd2": 3684,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1011,
+      "nombre": "Agustin",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 3000,
+      "deudaVencidaProd2": 1034,
+      "deudaTotProd1": 4500,
+      "deudaTotProd2": 1551,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1012,
+      "nombre": "Ivan",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 4000,
+      "deudaVencidaProd2": 4210,
+      "deudaTotProd1": 6000,
+      "deudaTotProd2": 6315,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1013,
+      "nombre": "Nepo",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 3456,
+      "deudaVencidaProd2": 2211,
+      "deudaTotProd1": 5184,
+      "deudaTotProd2": 3316.5,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1014,
+      "nombre": "Carmen",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 1234,
+      "deudaVencidaProd2": 1246,
+      "deudaTotProd1": 1851,
+      "deudaTotProd2": 1869,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1015,
+      "nombre": "Salim",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 2000,
+      "deudaVencidaProd2": 2456,
+      "deudaTotProd1": 3000,
+      "deudaTotProd2": 3684,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1016,
+      "nombre": "Quiliano",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 3000,
+      "deudaVencidaProd2": 1034,
+      "deudaTotProd1": 4500,
+      "deudaTotProd2": 1551,
+      "tasaRefi": 10
+    },
+    {
+      "dni": 1017,
+      "nombre": "Maria Isabel",
+      "producto1": "Visa",
+      "producto2": "American Express",
+      "deudaVencidaProd1": 4000,
+      "deudaVencidaProd2": 4210,
+      "deudaTotProd1": 6000,
+      "deudaTotProd2": 6315,
+      "tasaRefi": 10
+    }
+  ]
+}
