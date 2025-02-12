@@ -198,5 +198,47 @@
       "deudaTotProd2": 6315,
       "tasaRefi": 10
     }
+  ],
+  "gestionLeads":[
+     {
+    "telefono": "5493517501390",
+    "nombre": "Gaspar",
+    "apellido": "Mola",
+    "correoelectronico": "",
+    "fechanacimiento": "",
+    "origen": "Landing1"
+  },
+  {
+    "telefono": "5491122612223",
+    "nombre": "Juan",
+    "apellido": "Becaceci",
+    "correoelectronico": "",
+    "fechanacimiento": "",
+    "origen": "Orgánico"
+  },
+  {
+    "telefono": "34636104869",
+    "nombre": "Maximiliano",
+    "apellido": "Gaviglio",
+    "correoelectronico": "",
+    "fechanacimiento": "",
+    "origen": "Landing2"
+  },
+  {
+    "telefono": "5493513648779",
+    "nombre": "Federico",
+    "apellido": "D'Amato",
+    "correoelectronico": "",
+    "fechanacimiento": "",
+    "origen": "Landing1"
+  },
+  {
+    "telefono": "5493512866584",
+    "nombre": "Carolina",
+    "apellido": "Galende",
+    "correoelectronico": "",
+    "fechanacimiento": "",
+    "origen": "Landing2"
+  }
   ]
 }
