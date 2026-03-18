@@ -66,5 +66,52 @@
     "cantidadCuotas": 1,
     "montoCuota": 10000000
   }
+],
+  "naranja":[
+  {
+    "dni": 42474462,
+    "nombre": "Juan",
+    "totalPrestamos": 500000,
+    "cantidadPrestamos": 1,
+    "taxPrestamos": 250000,
+    "pendingAmount": 500000,
+    "creationDate": "13/03/2026"
+  },
+  {
+    "dni": 39754719,
+    "nombre": "Gaspar",
+    "totalPrestamos": 400000,
+    "cantidadPrestamos": 2,
+    "taxPrestamos": 200000,
+    "pendingAmount": 100000,
+    "creationDate": "13/03/2026"
+  },
+  {
+    "dni": 43889508,
+    "nombre": "Eugenia",
+    "totalPrestamos": 600000,
+    "cantidadPrestamos": 2,
+    "taxPrestamos": 300000,
+    "pendingAmount": 100000,
+    "creationDate": "13/03/2026"
+  },
+  {
+    "dni": 43740604,
+    "nombre": "Lucía",
+    "totalPrestamos": 500000,
+    "cantidadPrestamos": 1,
+    "taxPrestamos": 250000,
+    "pendingAmount": 500000,
+    "creationDate": "13/03/2026"
+  },
+  {
+    "dni": 43856595,
+    "nombre": "Joaquín",
+    "totalPrestamos": 200000,
+    "cantidadPrestamos": 2,
+    "taxPrestamos": 100000,
+    "pendingAmount": 50000,
+    "creationDate": "13/03/2026"
+  }
 ]
 }
