@@ -1,117 +1,117 @@
 {
   "deudas":[
-  {
-    "DNI": 42474462,
-    "nombre": "Juan",
-    "saldoVencido": 2000000,
-    "linkPago": "https://teleprom.com/",
-    "idAcuerdo": 1,
-    "quita": "10%",
-    "totalFinanciado": 1800000,
-    "cantidadCuotas": 6,
-    "montoCuota": 300000
-  },
-  {
-    "DNI": 39421134,
-    "nombre": "Karina",
-    "saldoVencido": 400000,
-    "linkPago": "https://teleprom.com/",
-    "idAcuerdo": 2,
-    "quita": "5%",
-    "totalFinanciado": 380000,
-    "cantidadCuotas": 8,
-    "montoCuota": 47500
-  },
-  {
-    "DNI": 25050609,
-    "nombre": "Maximiliano",
-    "saldoVencido": 1000000,
-    "linkPago": "https://teleprom.com/",
-    "idAcuerdo": 3,
-    "quita": "10%",
-    "totalFinanciado": 900000,
-    "cantidadCuotas": 3,
-    "montoCuota": 300000
-  },
-  {
-    "DNI": 34547589,
-    "nombre": "Gaspar",
-    "saldoVencido": 1500000,
-    "linkPago": "https://teleprom.com/",
-    "idAcuerdo": 4,
-    "quita": "15%",
-    "totalFinanciado": 1275000,
-    "cantidadCuotas": 6,
-    "montoCuota": 212500
-  },
-  {
-    "DNI": 32134128,
-    "nombre": "Ivan",
-    "saldoVencido": 5000000,
-    "linkPago": "https://teleprom.com/",
-    "idAcuerdo": 5,
-    "quita": "30%",
-    "totalFinanciado": 3500000,
-    "cantidadCuotas": 2,
-    "montoCuota": 1750000
-  },
-  {
-    "DNI": 41738891,
-    "nombre": "Nica",
-    "saldoVencido": 20000000,
-    "linkPago": "https://teleprom.com/",
-    "idAcuerdo": 6,
-    "quita": "50%",
-    "totalFinanciado": 10000000,
-    "cantidadCuotas": 1,
-    "montoCuota": 10000000
-  }
+    {
+      "DNI": 42474462,
+      "nombre": "Juan",
+      "saldoVencido": 2000000,
+      "linkPago": "https://teleprom.com/",
+      "idAcuerdo": 1,
+      "quita": "10%",
+      "totalFinanciado": 1800000,
+      "cantidadCuotas": 6,
+      "montoCuota": 300000
+    },
+    {
+      "DNI": 39421134,
+      "nombre": "Karina",
+      "saldoVencido": 400000,
+      "linkPago": "https://teleprom.com/",
+      "idAcuerdo": 2,
+      "quita": "5%",
+      "totalFinanciado": 380000,
+      "cantidadCuotas": 8,
+      "montoCuota": 47500
+    },
+    {
+      "DNI": 25050609,
+      "nombre": "Maximiliano",
+      "saldoVencido": 1000000,
+      "linkPago": "https://teleprom.com/",
+      "idAcuerdo": 3,
+      "quita": "10%",
+      "totalFinanciado": 900000,
+      "cantidadCuotas": 3,
+      "montoCuota": 300000
+    },
+    {
+      "DNI": 34547589,
+      "nombre": "Gaspar",
+      "saldoVencido": 1500000,
+      "linkPago": "https://teleprom.com/",
+      "idAcuerdo": 4,
+      "quita": "15%",
+      "totalFinanciado": 1275000,
+      "cantidadCuotas": 6,
+      "montoCuota": 212500
+    },
+    {
+      "DNI": 32134128,
+      "nombre": "Ivan",
+      "saldoVencido": 5000000,
+      "linkPago": "https://teleprom.com/",
+      "idAcuerdo": 5,
+      "quita": "30%",
+      "totalFinanciado": 3500000,
+      "cantidadCuotas": 2,
+      "montoCuota": 1750000
+    },
+    {
+      "DNI": 41738891,
+      "nombre": "Nica",
+      "saldoVencido": 20000000,
+      "linkPago": "https://teleprom.com/",
+      "idAcuerdo": 6,
+      "quita": "50%",
+      "totalFinanciado": 10000000,
+      "cantidadCuotas": 1,
+      "montoCuota": 10000000
+    }
 ],
-  "naranja":[
-  {
-    "dni": 42474462,
-    "nombre": "Juan",
-    "totalPrestamos": 500000,
-    "cantidadPrestamos": 1,
-    "taxPrestamos": 250000,
-    "pendingAmount": 500000,
-    "creationDate": "13/03/2026"
-  },
-  {
-    "dni": 39754719,
-    "nombre": "Gaspar",
-    "totalPrestamos": 400000,
-    "cantidadPrestamos": 2,
-    "taxPrestamos": 200000,
-    "pendingAmount": 100000,
-    "creationDate": "13/03/2026"
-  },
-  {
-    "dni": 43889508,
-    "nombre": "Eugenia",
-    "totalPrestamos": 600000,
-    "cantidadPrestamos": 2,
-    "taxPrestamos": 300000,
-    "pendingAmount": 100000,
-    "creationDate": "13/03/2026"
-  },
-  {
-    "dni": 43740604,
-    "nombre": "Lucía",
-    "totalPrestamos": 500000,
-    "cantidadPrestamos": 1,
-    "taxPrestamos": 250000,
-    "pendingAmount": 500000,
-    "creationDate": "13/03/2026"
-  },
-  {
-    "dni": 43856595,
-    "nombre": "Joaquín",
-    "totalPrestamos": 200000,
-    "cantidadPrestamos": 2,
-    "taxPrestamos": 100000,
-    "pendingAmount": 50000,
-    "creationDate": "13/03/2026"
-  }
-]
+"naranja":[
+    {
+      "dni": 42474462,
+      "nombre": "Juan",
+      "totalPrestamos": 500000,
+      "cantidadPrestamos": 1,
+      "taxPrestamos": 250000,
+      "pendingAmount": 500000,
+      "creationDate": "13/03/2026"
+    },
+    {
+      "dni": 39754719,
+      "nombre": "Gaspar",
+      "totalPrestamos": 400000,
+      "cantidadPrestamos": 2,
+      "taxPrestamos": 200000,
+      "pendingAmount": 100000,
+      "creationDate": "13/03/2026"
+    },
+    {
+      "dni": 43889508,
+      "nombre": "Eugenia",
+      "totalPrestamos": 600000,
+      "cantidadPrestamos": 2,
+      "taxPrestamos": 300000,
+      "pendingAmount": 100000,
+      "creationDate": "13/03/2026"
+    },
+    {
+      "dni": 43740604,
+      "nombre": "Lucía",
+      "totalPrestamos": 500000,
+      "cantidadPrestamos": 1,
+      "taxPrestamos": 250000,
+      "pendingAmount": 500000,
+      "creationDate": "13/03/2026"
+    },
+    {
+      "dni": 43856595,
+      "nombre": "Joaquín",
+      "totalPrestamos": 200000,
+      "cantidadPrestamos": 2,
+      "taxPrestamos": 100000,
+      "pendingAmount": 50000,
+      "creationDate": "13/03/2026"
+    }
+  ]
 }
