@@ -75,7 +75,7 @@
       "cantidadPrestamos": 1,
       "taxPrestamos": 250000,
       "pendingAmount": 500000,
-      "creationDate": "13/03/2026"
+      "creationDate": "10/03/2026"
     },
     {
       "dni": 39754719,
@@ -84,7 +84,7 @@
       "cantidadPrestamos": 2,
       "taxPrestamos": 200000,
       "pendingAmount": 100000,
-      "creationDate": "13/03/2026"
+      "creationDate": "10/03/2026"
     },
     {
       "dni": 43889508,
@@ -93,7 +93,7 @@
       "cantidadPrestamos": 2,
       "taxPrestamos": 300000,
       "pendingAmount": 100000,
-      "creationDate": "13/03/2026"
+      "creationDate": "10/03/2026"
     },
     {
       "dni": 43740604,
@@ -102,7 +102,7 @@
       "cantidadPrestamos": 1,
       "taxPrestamos": 250000,
       "pendingAmount": 500000,
-      "creationDate": "13/03/2026"
+      "creationDate": "10/03/2026"
     },
     {
       "dni": 43856595,
@@ -111,7 +111,7 @@
       "cantidadPrestamos": 2,
       "taxPrestamos": 100000,
       "pendingAmount": 50000,
-      "creationDate": "13/03/2026"
+      "creationDate": "10/03/2026"
     }
   ]
 }
