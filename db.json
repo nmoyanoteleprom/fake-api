@@ -113,5 +113,18 @@
       "pendingAmount": 50000,
       "creationDate": "10/03/2026"
     }
+  ],
+  "emi":[
+    {
+      "data":{
+        "Asesor": "María López",
+        "Nombre": "Juan Pérez",
+      },
+      "Capital": 150000,
+      "DNI": "30123456",
+      "PRODUCTO": "Préstamo Personal",
+      "VCTO": "2026-12-31",
+      "CUOTA": 12500
+    }
   ]
 }
