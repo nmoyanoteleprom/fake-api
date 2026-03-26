@@ -116,14 +116,14 @@
   ],
   "emi":[
     {
-      "data":{
+      "data": {
         "Asesor": "María López",
-        "Nombre": "Juan Pérez",
+        "Nombre": "Juan Pérez"
       },
       "Capital": 150000,
       "DNI": "30123456",
       "PRODUCTO": "Préstamo Personal",
-      "VCTO": "2026-12-31",
+      "VCTO": "10/03/2026",
       "CUOTA": 12500
     }
   ]
